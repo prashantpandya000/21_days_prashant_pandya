@@ -19,3 +19,5 @@ RL is basically a trial and error learning process. Now, let's revisit our chess
 Ultimately, the goal of the agent is to maximize the reward it gets. If the agent receives a good reward, then it means it has performed a good action. If the agent performs a good action, then it implies that it can win the game. Thus, the agent learns to win the game by maximizing the reward.
 
 day 3- color detection using svm
+
+day 4 - free code camp 50% on neural network completed.
