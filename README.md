@@ -23,3 +23,5 @@ day 3- color detection using svm
 day 4 - free code camp 50% on neural network completed.
 
 day 5 - working with Optical character recognizer
+
+day 6 - sentiment analysis 
